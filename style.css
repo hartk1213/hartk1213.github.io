@@ -1,0 +1,5 @@
+<style>
+  .logo, .logo * {
+    width: 100% !important; /* Ensures the style takes precedence */
+  }
+</style>
